@@ -7,7 +7,8 @@
   background:
   linear-gradient(
     rgba(0,0,0,.9),rgba(00,22,22,.9)),
-    url(../public/background.jpeg) no-repeat;
+    url(../public/background.jpeg);
+  background-attachment: fixed, scroll;
 }
 
 .title{
