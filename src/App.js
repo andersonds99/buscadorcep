@@ -23,7 +23,7 @@ function App() {
       setInput("")
     }
     catch{
-      alert('Erro ao buscar. Tente novamente mais tarde!');
+      alert('Erro ao buscar cep');
       setInput ("")
     }
   }

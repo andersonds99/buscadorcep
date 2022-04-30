@@ -89,6 +89,14 @@
 
 }
 
+@media (max-width: 520px){
+
+  .title{
+    font-size: 40px;
+  }
+
+}
+
 
 @keyframes flipTitle {
   from{
